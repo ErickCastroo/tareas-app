@@ -1,5 +1,6 @@
 # React + Vite
-
+mi tercera actividad en react:  https://erickcastroo.github.io/tareas-app/
+se trata de un organizador de tareas
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
